@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjeevWeb
-- 👀 I’m interested in Full-stack web development with nodejs and react ( backend preferred)
+- 👀 I’m interested in Full-stack web development with Nodejs and React ( backend preferred)
 - 🌱 I’m currently learning React and DSA and Planning to jump into DevOps along with developement
 - 💞️ I’m looking to collaborate on open-source and full-stack development
 - 📫 How to reach me ...
