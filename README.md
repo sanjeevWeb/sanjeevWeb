@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar Sanjeev Dutta @sanjeevWeb
 - 👀 I’m interested in Full-stack web development with Nodejs and React ( backend preferred )
 - 🌱 I’m currently learning React and DSA along with hands on redis and Docker and Planning to jump into DevOps along with developement
-- 💞️ I’m looking to collaborate on open-source and full-stack development
+- 💞️ I’m looking to collaborate on open-source and full-stack development, getting hands dirty with LLMs,RAG and AI etc. is need of the hours.
 - 📫 How to reach me ...
 
 <!---
